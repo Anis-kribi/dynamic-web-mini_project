@@ -134,7 +134,7 @@ arduino
 Copier
 Modifier
 http://localhost/mini_project
-🖼️ Screenshots (To Add Later)
+🖼️ Screenshots 
 Section	Description
 Home page :
 <img width="1901" height="934" alt="image" src="https://github.com/user-attachments/assets/7a4d959e-b062-44ec-97c6-5136d92fa421" />
