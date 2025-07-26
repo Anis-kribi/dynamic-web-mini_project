@@ -129,13 +129,11 @@ Import bookstore.sql
 Move project to your XAMPP htdocs folder
 
 Run Apache & MySQL, then access:
-
-arduino
-Copier
-Modifier
 http://localhost/mini_project
+
 🖼️ Screenshots 
 Section	Description
+
 Home page :
 <img width="1901" height="934" alt="image" src="https://github.com/user-attachments/assets/7a4d959e-b062-44ec-97c6-5136d92fa421" />
 Books page :
